@@ -4,8 +4,10 @@
 
 
 ## Skills
-  <img src="https://img.shields.io/static/v1?label=PHP&message=PHP&color=brightgreen" />
+  <img src="https://img.shields.io/static/v1?label=PHP&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=VB.Net&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=JQuery&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-%E2%98%85 %E2%98%85 %E2%98%85 %E2%98%85 %E2%98%85-important" /> 
+  <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
 </p>
