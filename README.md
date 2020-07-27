@@ -1,22 +1,32 @@
 ### നമസ്തേ | नमस्ते | Namasthe 👋
 
-[![Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/rakheshthayyur) 
-
+<img src="https://img.shields.io/static/v1?label=Hi&message=Welcome&color=brightgreen"/>
 
 ## Full Stack
 <p>
-<img src="https://img.shields.io/static/v1?label=PHP&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
-<img src="https://img.shields.io/static/v1?label=VB.Net&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=PHP&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=VB.Net&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
 </p>
 
 ## Skills
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)  
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) 
+<p>
+  <img src="https://img.shields.io/static/v1?label=HTML5&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=CSS3&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=JavaScript&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+</p>
 
 ### Tools
+<p>
+  <img src="https://img.shields.io/static/v1?label=FileZilla&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=FileZilla&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=green"/>
+  <img src="https://img.shields.io/static/v1?label=FileZilla&message=%E2%98%85%E2%98%85%E2%98%85&color=yellowgreen"/>
+  <img src="https://img.shields.io/static/v1?label=FileZilla&message=%E2%98%85%E2%98%85&color=orange"/>
+  <img src="https://img.shields.io/static/v1?label=FileZilla&message=%E2%98%85&color=red"/>
+</p>
 
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff) 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) 
+### VCS
+<p>
+  <img src="https://img.shields.io/static/v1?label=Git&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=TFS&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+</p>
