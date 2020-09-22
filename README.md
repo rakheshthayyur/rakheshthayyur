@@ -10,8 +10,8 @@
 
 ## Database
 <p>
-  <img src="https://img.shields.io/static/v1?label=MSSql&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
-  <img src="https://img.shields.io/static/v1?label=MySql&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=MSSQL&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=MySQL&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
   <img src="https://img.shields.io/static/v1?label=MSAccess&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
 </p>
 
