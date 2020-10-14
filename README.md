@@ -73,7 +73,7 @@
 ## Domains
 <p>
   <img src="https://img.shields.io/static/v1?label=ERP&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
-  <img src="https://img.shields.io/static/v1?label=Accounts&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=Accounts&message%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
   <img src="https://img.shields.io/static/v1?label=Inventory&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
   <img src="https://img.shields.io/static/v1?label=Services&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
   <img src="https://img.shields.io/static/v1?label=BioMetric Attendance&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
