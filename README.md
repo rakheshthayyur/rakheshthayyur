@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/static/v1?label=Putty&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=green"/>
   <img src="https://img.shields.io/static/v1?label=JMeter&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=green"/>
   <img src="https://img.shields.io/static/v1?label=Thunderbird&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=green"/>
+  <img src="https://img.shields.io/static/v1?label=LetsEncrypt&message=%E2%98%85&color=red"/>
 </p>
 
 ## VCS
@@ -70,6 +71,7 @@
   <img src="https://img.shields.io/static/v1?label=Godaddy&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
   <img src="https://img.shields.io/static/v1?label=AWS&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
   <img src="https://img.shields.io/static/v1?label=DigitalOcean&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=Namecheap&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
 </p>
 
 ## Domains
