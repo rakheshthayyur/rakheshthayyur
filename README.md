@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Hi&message=Welcome&color=brightgreen"/>
 
-## Full Stack
+## Stack
 <p>
   <img src="https://img.shields.io/static/v1?label=PHP&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
   <img src="https://img.shields.io/static/v1?label=VB.Net&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
@@ -19,6 +19,7 @@
 <p>
   <img src="https://img.shields.io/static/v1?label=CodeIgniter&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
   <img src="https://img.shields.io/static/v1?label=Angular&message=%E2%98%85&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=Laravel&message=%E2%98%85&color=brightgreen"/>
 </p>
 
 ## Skills
