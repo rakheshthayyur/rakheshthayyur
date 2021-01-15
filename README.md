@@ -56,6 +56,8 @@
   <img src="https://img.shields.io/static/v1?label=JMeter&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=green"/>
   <img src="https://img.shields.io/static/v1?label=Thunderbird&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=green"/>
   <img src="https://img.shields.io/static/v1?label=LetsEncrypt&message=%E2%98%85&color=red"/>
+  <img src="https://img.shields.io/static/v1?label=Thunderbird&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=Trello"/>
+  <img src="https://img.shields.io/static/v1?label=Thunderbird&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=Slack"/>
 </p>
 
 ## VCS
