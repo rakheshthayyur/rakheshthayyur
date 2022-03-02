@@ -93,11 +93,3 @@
   <img src="https://img.shields.io/static/v1?label=KOT&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
   <img src="https://img.shields.io/static/v1?label=School Management&message=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85&color=brightgreen"/>
 </p>
-
-<style>
-  .strava-badge- { display: inline-block; height: 48px; }
-  .strava-badge- img { visibility: hidden; height: 48px; }
-  .strava-badge-:hover { background-position: 0 -63px; }
-  .strava-badge-follow { height: 48px; width: 48px; background: url(//badges.strava.com/echelon-sprite-48.png) no-repeat 0 0; }
-</style>
-<a href="http://strava.com/athletes/96228941/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-48.png" alt="Strava" /></a>
