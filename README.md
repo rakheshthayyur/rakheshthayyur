@@ -9,4 +9,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakheshthayyur)
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rakheshthayyur)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rakheshthayyur)](https://github.com/anuraghazra/github-readme-stats)
